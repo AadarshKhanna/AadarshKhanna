@@ -6,7 +6,7 @@ Hi there! 👋 I'm Aadarsh, a passionate **Software Engineering student** at Chi
 
 [![GitHub followers](https://img.shields.io/github/followers/aadarshkhanna?label=Follow&style=social)](https://github.com/aadarshkhanna)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://linkedin.com/in/aadarsh-khanna-b205922b3)](https://linkedin.com/in/aaadarsh-khanna-b205922b3)
-[![Gmail Badge](https://img.shields.io/badge/-aadarshkhanna3300@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aadarshkhanna3300@gmail.com)](mailto:aadarshkhanna3300@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aadarshkhanna3300@gmail.com)](mailto:aadarshkhanna3300@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit-blueviolet?style=flat&logo=google-chrome&logoColor=white)](https://www.aadarshkhanna.site)
 
 ---
@@ -52,6 +52,7 @@ Hi there! 👋 I'm Aadarsh, a passionate **Software Engineering student** at Chi
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
 
+ 🐍Watch my Snake eat my commits🐍
 ---
 
 <picture>
@@ -86,13 +87,10 @@ Hi there! 👋 I'm Aadarsh, a passionate **Software Engineering student** at Chi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshkhanna&layout=compact&theme=default)
 ---
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/aadarshkhanna](https://www.linkedin.com/in/aadarsh-khanna-b205922b3/))
-- 🌐 [Portfolio Website](https://www.aadarshkhanna.site)
-- 📧 Email: [aadarshkhanna3300@gmail.com](mailto:aadarshkhanna3300@gmail.com)  
-- 🌐 [GitHub](https://github.com/AadarshKhanna)
+<p align="center">
+  <b><i style="color:#FF8C00;">"I'm not a great programmer; I'm just a good programmer with great Googling skills."</i></b><br>
+  <i>— Unknown</i>
+</p>
 
----
 
-> *“Building with purpose. Coding with passion.”*
 
